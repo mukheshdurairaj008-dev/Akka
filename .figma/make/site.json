@@ -1,0 +1,10 @@
+{
+  "description": "Creates an interactive cinematic birthday story with personalized photos, messages, and animations to celebrate a sister's 27th birthday memorably.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
